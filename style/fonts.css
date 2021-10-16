@@ -1,0 +1,32 @@
+@font-face {
+               font-family: "Montserrat-Black";
+               src: url(../fonts/fonts/Montserrat-Black.ttf);
+}
+@font-face {
+               font-family: "Montserrat-Bold";
+               src: url(../fonts/fonts/Montserrat-Bold.ttf);
+}
+@font-face {
+               font-family: "Montserrat-ExtraBold";
+               src: url(../fonts/fonts/Montserrat-ExtraBold.ttf);
+}
+@font-face {
+               font-family: "Montserrat-Medium";
+               src: url(../fonts/fonts/Montserrat-Medium.ttf);
+}
+@font-face {
+               font-family: "Montserrat-Regular";
+               src: url(../fonts/fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+               font-family: "Montserrat-SemiBold";
+               src: url(../fonts/fonts/Montserrat-SemiBold.ttf);
+}
+@font-face {
+               font-family: "Roboto-Bold";
+               src: url(../fonts/fonts/Roboto-Bold.ttf);
+}
+@font-face {
+               font-family: "Roboto-Regular";
+               src: url(../fonts/fonts/Roboto-Regular.ttf);
+}
